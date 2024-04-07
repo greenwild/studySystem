@@ -1,5 +1,7 @@
 # studySystem
 
+how to use github:
+https://blog.csdn.net/2301_80864686/article/details/134207692
 python practical practice
 
 #1 ask for how many students:
